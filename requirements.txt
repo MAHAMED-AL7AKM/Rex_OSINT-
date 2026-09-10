@@ -1,0 +1,4 @@
+herecolorama>=0.4.6
+requests>=2.31.0
+phonenumbers>=8.13.0
+beautifulsoup4>=4.12.0
