@@ -1,7 +1,7 @@
 """Rex OSINT - Configuration"""
 
 VERSION = "1.0.0"
-AUTHOR = "Your Name"
+AUTHOR = "Rex El7akm"
 GITHUB = "https://github.com/MAHAMED-AL7AKM/Rex_OSINT"
 
 # Colors
