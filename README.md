@@ -17,6 +17,7 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/MAHAMED-AL7AKM/Rex-OSINT.git
-cd Rex_OSINT
+git clone https://github.com/MAHAMED-AL7AKM/Rex_OSINT-.git
+cd Rex_OSINT-
 pip install -r requirements.txt
+python rex.py
